@@ -22,7 +22,7 @@ pip3 install flask && python3 server.py
 
 ## Direct live demo 🎬
 
-<https://raw.githack.com/juanmism/PRUEVA-VSCODE/instagram_post/main/index.html>
+<https://raw.githack.com/juanmism/PRUEVA-VSCODE/main/index.html>
 
 💻 _Juan Miguel Sáenz Martel_ (<https://github.com/juanmism>)
 
